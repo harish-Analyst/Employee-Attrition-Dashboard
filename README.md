@@ -2,7 +2,7 @@
 ![Employee Attrition Dashboard](Preview.png)
 
 ## 📌 Project Overview
-This project analyzes employee attrition trends across departments, education levels, and years of service using Power BI.
+This project analyzes employee attrition trends using an HR analytics dataset. The dashboard explores attrition patterns across years of service, departments, and education levels to identify high-risk employee segments and workforce stability trends.
 
 ## 🛠 Tools Used
 - Power BI
