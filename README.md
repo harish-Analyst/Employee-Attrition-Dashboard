@@ -1,4 +1,5 @@
 # Employee-Attrition-Dashboard
+[Dashboard Preview]https://github.com/harish-Analyst/Employee-Attrition-Dashboard/blob/main/Preview.png
 Power BI dashboard analyzing employee attrition trends using HR analytics dataset.
 ## 📌 Project Overview
 This project analyzes employee attrition trends across departments, education levels, and years of service using Power BI.
