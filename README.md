@@ -1,5 +1,5 @@
 # Employee-Attrition-Dashboard
-![Employee Attrition Dashboard](dashboard_preview.png)
+![Employee Attrition Dashboard](Preview.png)
 
 ## 📌 Project Overview
 This project analyzes employee attrition trends across departments, education levels, and years of service using Power BI.
